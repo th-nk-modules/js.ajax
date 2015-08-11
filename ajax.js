@@ -2,13 +2,10 @@
  * @class Ajax
  * @classdesc ajax helper module IE7+
  * ajax helper module IE7+
- * @module ajax
  */
 class Ajax {
     /**
      * @constructor
-     * @param {string} str
-     * @property {string} output
      */
     constructor() {}
 
