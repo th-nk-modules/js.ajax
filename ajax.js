@@ -1,8 +1,9 @@
 /**
- * @class Ajax
- * @classdesc ajax helper module IE7+
- * ajax helper module IE7+
- */
+* @class Ajax
+* @classdesc ajax helper module IE7+
+* ajax helper module IE7+
+* @global
+*/
 class Ajax {
     /**
      * @constructor
